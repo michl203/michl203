@@ -19,7 +19,7 @@ ________________________________________________________________________________
 1. Java web development
 2. Machine Learning (Python)
 3. Anything related to Cybersecurity
-4. Linux/ Windows PowerShell scripting
+4. Linux Bash/ Windows PowerShell scripting
 
 ___________________________________________________________________________________________________  
 
@@ -29,6 +29,7 @@ ________________________________________________________________________________
 -Database design/ Development (MySQL)
 
 -Knowledge of OOP concepts
+-Cybersecurity Fundamentals
    
 
 ___________________________________________________________________________________________________  
