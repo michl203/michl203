@@ -30,8 +30,7 @@ ________________________________________________________________________________
 
 -Database design/ Development (MySQL)
 
--Knowledge of OOP concepts
--CIA Triad   -OWASP Top Ten
+-Knowledge of OOP concepts  -CIA Triad  -OWASP Top Ten
    
 
 ___________________________________________________________________________________________________  
