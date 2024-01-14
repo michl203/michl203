@@ -31,7 +31,7 @@ ________________________________________________________________________________
 -Database design/ Development (MySQL)
 
 -Knowledge of OOP concepts
--Cybersecurity Fundamentals
+-CIA Triad   -OWASP Top Ten
    
 
 ___________________________________________________________________________________________________  
