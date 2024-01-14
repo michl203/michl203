@@ -40,8 +40,6 @@ Feel free to check out some of them at https://portfolium.com/MichaelAmbeguia?re
 Also if you'd like, follow me on Linkedin at https://www.linkedin.com/in/michael-ambeguia-21bb74249/.
 
 
-### HAVE A GREAT DAY!
-![ThankYouGIF](https://github.com/michl203/michl203/assets/110306237/cbb7db80-b9da-423a-b8cb-047f5cfaa5e7)
 
 
 
