@@ -14,20 +14,24 @@
 ___________________________________________________________________________________________________  
 
 ### Skills
-Programming
--Languages: Java, SQL, Python
--Knowledge of OOP concepts  
+**Programming**
+ 1. Languages: Java, SQL, Python
+ 2. Knowledge of OOP concepts  
 
-Operating Systems
--Linux (Ubuntu/Red Hat Enterprise Linux)
--Windows (Windows 11/Server)
+**System Administration**
+ 1. Linux (Ubuntu/Red Hat Enterprise Linux)
+ 2. Linux Security (Hardening, User management, Filesystem Security)
+ 3. Windows (Windows 11/Server)
 
-Cybersecurity 
-- CIA Triad
+**Cybersecurity**
+ 1. CIA Triad
+ 2. Assymmetric/Symmetric Encryption
+ 3. OS Hardening 
+ 4. Vulnerability Management (Qualys Community Edition)
 
-Other Skills
--Database design/Development (MySQL)
--AWS
+**Other Skills**
+ 1. Database design/Development (MySQL)
+ 2. AWS
    
 
 ___________________________________________________________________________________________________  
