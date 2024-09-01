@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 ### Links to my main repositories:
 
-1.If you want to see my Linux labs they can be found here: https://github.com/michl203/Linux_Labs
+1. If you want to see my Linux labs they can be found here: https://github.com/michl203/Linux_Labs
 
 
    
