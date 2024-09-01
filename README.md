@@ -36,6 +36,11 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________  
 
+### Links to my main repositories:
+
+1.If you want to see my Linux labs they can be found here: https://github.com/michl203/Linux_Labs
+
+
    
 ### Curious about my other projects ?
 Feel free to check out some of them at https://portfolium.com/MichaelAmbeguia?ref=MichaelAmbeguia.
