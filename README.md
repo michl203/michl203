@@ -11,6 +11,11 @@
 1. Linux System Administration/Security
 2. Cybersecurity (Information Security, Vulnerability Management, Security Operations)
 3. Windows System Administration/Security
+
+###  Quick Links to my main repositories:
+
+1. If you want to see my Linux labs they can be found here: https://github.com/michl203/Linux_Labs
+2. If you want to see my cybersecurity related labs they can be found here: https://github.com/michl203/Cybersecurity_Labs
 ___________________________________________________________________________________________________  
 
 ### Skills
@@ -35,11 +40,6 @@ ________________________________________________________________________________
    
 
 ___________________________________________________________________________________________________  
-
-###  Quick Links to my main repositories:
-
-1. If you want to see my Linux labs they can be found here: https://github.com/michl203/Linux_Labs
-2. If you want to see my cybersecurity related labs they can be found here: https://github.com/michl203/Cybersecurity_Labs
 
 
    
