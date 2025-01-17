@@ -4,7 +4,7 @@
 
 **About Me**
  
- I am currently a Junior at Cal Poly Pomona studying Computer Information Systems (my track is Information Security/ Forensics). 
+ I am currently a Senior at Cal Poly Pomona studying Computer Information Systems (my track is Information Security/ Forensics). 
 
  
 **Interests**
@@ -24,10 +24,10 @@ ________________________________________________________________________________
  3. Windows (Windows 11/Server)
 
 **Cybersecurity**
- 1. CIA Triad
+ 1. Enumeration (Nmap)
  2. Assymmetric/Symmetric Encryption
  3. OS Hardening 
- 4. Vulnerability Management (Qualys Community Edition)
+ 4. Vulnerability Management (Qualys Community Edition, Nessus)
 
 **Other Skills**
  1. Database design/Development (MySQL)
@@ -36,9 +36,10 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________  
 
-### Links to my main repositories:
+###  Quick Links to my main repositories:
 
 1. If you want to see my Linux labs they can be found here: https://github.com/michl203/Linux_Labs
+2. If you want to see my cybersecurity related labs they can be found here: https://github.com/michl203/Cybersecurity_Labs
 
 
    
