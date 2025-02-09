@@ -4,12 +4,13 @@
 
 **About Me**
  
- I am currently a Senior at Cal Poly Pomona studying Computer Information Systems (my track is Information Security/ Forensics). 
+ I am currently a Senior at Cal Poly Pomona studying Computer Information Systems (my track is Information Security/ Forensics).
+ 
 
  
 **Interests**
 1. Linux System Administration/Security
-2. Cybersecurity (Information Security, Vulnerability Management, Security Operations)
+2. Cybersecurity (Information Security, Vulnerability Management, Open Source Security Tools)
 3. Windows System Administration/Security
 
 ###  Quick Links to my main repositories:
