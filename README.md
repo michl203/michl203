@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 ### Skills
 **Programming**
- 1. Languages: Java, SQL, Python
+ 1. Languages: Java, SQL, Bash, Python
  2. Knowledge of OOP concepts  
 
 **System Administration**
@@ -46,9 +46,8 @@ ________________________________________________________________________________
 
 
    
-### Curious about my other projects ?
-Feel free to check out some of them at https://portfolium.com/MichaelAmbeguia?ref=MichaelAmbeguia.
-Also if you'd like, follow me on Linkedin at https://www.linkedin.com/in/michael-ambeguia-21bb74249/.
+### Follow Me
+Here is the link to my LinkedIn profile: https://www.linkedin.com/in/michael-ambeguia-21bb74249/.
 
 
 
