@@ -4,7 +4,7 @@
 
 **About Me**
  
- I am currently a Senior at Cal Poly Pomona studying Computer Information Systems (my track is Information Security/ Forensics).
+ I am currently a Senior at Cal Poly Pomona studying Computer Information Systems (my track is Information Security/ Forensics). I am a cybersecurity and system administration enthusiast and enjoy learning new skills using my home lab. Both cybersecuirty and system administration overlap each other aand I am able to improve my cybersecuirity skills while I practice system administration and vice-versa.
  
 
  
