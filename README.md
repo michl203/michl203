@@ -4,24 +4,37 @@
 
 **About Me**
  
- I am currently a Senior at Cal Poly Pomona studying Computer Information Systems (my track is Information Security/ Forensics). I am a cybersecurity and system administration enthusiast and enjoy learning new skills using my home lab. Both cybersecuirty and system administration overlap each other aand I am able to improve my cybersecuirity skills while I practice system administration and vice-versa.
+  I am a cybersecurity and system administration enthusiast studying Computer Information Systems at Cal Poly Pomona (Graduating 2025). 
+  
+  I enjoy learning new skills in my home lab environment. I am constantly sharpening my skills in:
+ 
+    ☑️ Linux System Administration
+  
+    ☑️ Windows System Administration
+  
+    ☑️ Cybersecurity
+  
+    ☑️ Scripting (Bash, Python, Powershell)
+
+  Cybersecurity and system administration skills compliment each other so learning both disciplines makes me well rounded.
+
  
 
+
+###  My Home Lab Project Repositories:
+
+### 🐧 **Linux Labs**
+
+🔗 https://github.com/michl203/Linux_Labs
  
-**Interests**
-1. Linux System Administration/Security
-2. Cybersecurity (Information Security, Vulnerability Management, Open Source Security Tools)
-3. Windows System Administration/Security
 
-###  Quick Links to my main repositories:
-🐧 1. If you want to see my Linux labs they can be found here: 
-https://github.com/michl203/Linux_Labs
+### 🛡️ **Cybersecurity Labs**
 
-🛡️ 2. If you want to see my cybersecurity related labs they can be found here: 
-https://github.com/michl203/Cybersecurity_Labs
+🔗 https://github.com/michl203/Cybersecurity_Labs
 
-🪟 3. If you want to see my Windows related labs that can be found here:
-https://github.com/michl203/Windows_Labs
+### 🪟 **Windows Labs**
+
+🔗 https://github.com/michl203/Windows_Labs
 ___________________________________________________________________________________________________  
 
 ### Skills
@@ -30,14 +43,15 @@ ________________________________________________________________________________
  2. Knowledge of OOP concepts  
 
 **System Administration**
- 1. Linux (Ubuntu/Red Hat Enterprise Linux)
+ 1. Linux (Ubuntu/Red Hat Enterprise Linux) 
+
  2. Linux Security (Hardening, User management, Filesystem Security)
  3. Windows (Windows 11/Server)
 
 **Cybersecurity**
  1. Enumeration (Nmap)
- 2. Assymmetric/Symmetric Encryption
- 3. OS Hardening 
+ 2. Assymmetric/Symmetric Encryption (GPG)
+ 3. OS Hardening (OpenScap/ CIS benchmarks).
  4. Vulnerability Management (Qualys Community Edition, Nessus)
 
 **Other Skills**
