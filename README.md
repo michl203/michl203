@@ -15,9 +15,9 @@
 
 ###  Quick Links to my main repositories:
 
-1. If you want to see my Linux labs they can be found here: https://github.com/michl203/Linux_Labs
-2. If you want to see my cybersecurity related labs they can be found here: https://github.com/michl203/Cybersecurity_Labs
-3. If you want to see my Windows related labs that can be found here: https://github.com/michl203/Windows_Labs
+🐧 1. If you want to see my Linux labs they can be found here: https://github.com/michl203/Linux_Labs
+🛡️ 2. If you want to see my cybersecurity related labs they can be found here: https://github.com/michl203/Cybersecurity_Labs
+🪟 3. If you want to see my Windows related labs that can be found here: https://github.com/michl203/Windows_Labs
 ___________________________________________________________________________________________________  
 
 ### Skills
