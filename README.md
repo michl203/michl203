@@ -1,4 +1,4 @@
-### Hi 👋 , I am Michael! Welcome to my GutHub repository!
+### Hi 👋 , I am Michael! Welcome to my GitHub repository!
 
 
 
