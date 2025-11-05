@@ -4,7 +4,7 @@
 
 **About Me**
  
-  I am a cybersecurity and system administration enthusiast studying Computer Information Systems at Cal Poly Pomona (Graduating 2025). 
+  I am a cybersecurity and system administration enthusiast who graudated with a Bachelor's Degree in Computer Information Systems from Cal Poly Pomona. 
   
   I enjoy learning new skills in my home lab environment. I am constantly sharpening my skills in:
  
